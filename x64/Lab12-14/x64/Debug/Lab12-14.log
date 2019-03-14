@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: Two or more files with the name of qrc_Lab1214.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\qrc_Lab1214.cpp, .\GeneratedFiles\qrc_Lab1214.cpp.
+  Lab12-14.vcxproj -> C:\Users\Andreea\source\repos\Lab12-14\x64\Debug\Lab12-14.exe

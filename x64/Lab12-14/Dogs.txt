@@ -1,0 +1,8 @@
+Bichon,Lucy,2,3,https://dogcare.dailypuppy.com/care-coat-bichon-frise-8093.html
+Husky,Rocky,1,6,https://petssync.com/siberian-husky-training/
+Poodle,Morning,3,1,https://www.pinterest.com/pin/306033737151246082/
+Teacup Puddle,Olivia,1,1,https://www.rollyteacuppuppies.com/products/creme-toy-poodle
+Puddle,Kevin,5,3,http://www.akc.org/expert-advice/lifestyle/did-you-know/cute/
+Dalmatian,Gogi,23,22,https://www.rollyteacuppuppies.com/products/creme-poodle
+Golden Retriver,Gogigi,12,1,https://www.rollyteacuppuppies.com/creme-poodle
+Golden Retriver,Jhon,3,12,https://dogcare.dailypuppy.com/care-coat-golden-8093.html
